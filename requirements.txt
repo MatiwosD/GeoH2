@@ -1,0 +1,13 @@
+snakemake
+atlite
+cartopy
+gdal
+geopandas
+geopy
+matplotlib
+numpy
+openpyxl
+pandas
+pypsa
+shapely
+xarray 
